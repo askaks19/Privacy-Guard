@@ -296,7 +296,7 @@ Need help?
 
 **[⬆ Back to Top](#-privacy-guard)**
 
-Made with ❤️ by [askaks19](https://github.com/askaks19)
+Made with ❤️ by [ayushhhks](https://github.com/ayushhhks)
 
 ⭐ If you find this project helpful, please consider giving it a star!
 
